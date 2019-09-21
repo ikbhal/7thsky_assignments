@@ -1,4 +1,22 @@
 Bismillah
+
+Minimum : unders stand tutorial & practice
+
+assignment plan: 
+start button
+you speak
+set timer for 5 minutes
+
+// after speech recognition
+// speach conver to text , text store in varia ble Content
+// extract 5 number from "set timer for 5 minutes" , say minutes = 5
+  // split string in javascript  by space
+  https://www.w3schools.com/jsref/jsref_split.asp
+  // regular expression 
+  var minutes = 5 * 60 * 1000; // seconds -> milliseconds
+  // setTimeout(function(){alert("timeup");},minutes);
+
+---
 Speech to Text Conversion Using JavaScript
 https://blog.eduonix.com/artificial-intelligence/speech-text-conversion-using-javascript/
 
@@ -11,3 +29,28 @@ Speech recognition is a feature that gives us the ability to perform tasks using
 
 Advantage:
     life faster and comfortable.
+
+===
+var str = "How are you doing today?";
+  var res = str.split(" ");
+undefined
+str
+"How are you doing today?"
+res
+(5) ["How", "are", "you", "doing", "today?"]
+str ="set timer for 5 minutes";
+"set timer for 5 minutes"
+var tokens = str.split(" ");
+undefined
+tokens
+(5) ["set", "timer", "for", "5", "minutes"]
+tokens[3]
+"5"
+parseInt(tokens[3]);
+5
+minutes = parseInt(tokens[3]);
+5
+setTimeout(functino(){alert("timeup")},500);
+VM662:1 Uncaught SyntaxError: missing ) after argument list
+setTimeout(function(){alert("timeup")},500);
+2186    
