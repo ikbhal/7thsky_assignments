@@ -1,0 +1,13 @@
+Bismillah
+Speech to Text Conversion Using JavaScript
+https://blog.eduonix.com/artificial-intelligence/speech-text-conversion-using-javascript/
+
+Why?
+Speech recognition is a feature that gives us the ability to perform tasks using our spoken words as input.
+ Speech recognition is gradually becoming a part of our lives in the form of voice assistants such as Alexa,
+  Google Assistant, and Siri. Whether it’s dictating words to your device to compose a document, 
+  doing a web search using voice, or controlling your computer using speech
+   — speech to text conversion is making our life faster and comfortable.
+
+Advantage:
+    life faster and comfortable.

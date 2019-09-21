@@ -1,0 +1,27 @@
+
+create chrome extension hello world
+
+bonus problem
+
+show alert message "Please close your eyes for 1 second to relax" 
+after every 5 minutes
+---
+concept 
+1) how to create chrome browser extension -> tutorial search
+tutorial: https://developer.chrome.com/apps/getstarted
+https://thoughtbot.com/blog/how-to-make-a-chrome-extension
+https://www.freecodecamp.org/news/how-to-create-and-publish-a-chrome-extension-in-20-minutes-6dc8395d7153/
+
+  your extension : create icon 
+  close eyes  -> google -> g; eyes ->e
+  optional : create images, icons
+1) how to install chrome browser extension -> youtube
+ address bar top right corner  three dots -> more tools -> extension
+ex: color picker chrome extension in google
+https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
+Add to Chrome -> Add Extension
+1) setInterval javascript
+1) alert
+1) javascript function
+
+
