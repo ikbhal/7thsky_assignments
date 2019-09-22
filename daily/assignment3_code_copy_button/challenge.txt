@@ -1,0 +1,51 @@
+Bismillah
+
+Insha allah
+
+challenge: create copy to code button on hovering on div section
+Reference demo: https://linuxize.com/post/how-to-install-gcc-compiler-on-debian-10/
+
+learn list
+1) how to copy the text from section containing copy button
+https://www.w3schools.com/howto/howto_js_copy_clipboard.asp
+1) how to show copy button on hovering
+:hover css selector
+
+button {
+    display: none;
+}
+
+button:hover {
+    display: inline-block;
+}
+reference :https://stackoverflow.com/questions/40891570/show-button-on-hover-only
+
+1) how to display code in div
+https://www.w3schools.com/tags/tag_pre.asp
+https://www.w3schools.com/tags/tag_code.asp
+
+1) how to syntax highlight code 
+
+https://www.w3schools.com/howto/howto_syntax_highlight.asp
+
+============
+read more
+===========
+optinal reading below
+Syntax highlighting code (For pro work):
+
+rainbows (very Perfect)
+
+prettify
+
+syntaxhighlighter
+
+highlight
+
+JSHighlighter
+
+1) use primsajs.com
+https://prismjs.com/
+
+https://highlightjs.org/
+http://hilite.me/
