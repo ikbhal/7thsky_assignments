@@ -1,0 +1,15 @@
+Bismillah
+
+create sign up form
+
+first name text box
+username text box
+password text box
+signup button
+---
+on clicking signup button, create account  with first name, user name, password
+html
+javascript or jquery
+mongoose
+express
+node js

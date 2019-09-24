@@ -1,0 +1,21 @@
+Bismillah
+Reference: https://www.geeksforgeeks.org/signup-form-using-nodejs-and-mongodb/
+--
+signup form
+
+username
+password
+
+sign in 
+
+---
+html form , button, input type, password
+javascript or jquery
+ajax
+
+node .js
+express
+mongodb
+
+
+--
