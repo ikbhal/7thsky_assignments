@@ -1,0 +1,26 @@
+Bismillah
+
+Create like youtube video comment
+
+1) User can create comment
+2) he like other comment  -> vote up,
+3) he dislike other comment -> vote up
+4) he can reply other comments
+  4.1) nested comments
+5) comment should have person -username
+6) when it was commented
+
+---------
+full technology
+front end section
+javascript -> jquery -> angular|react js
+tree structure or nested structure comment
+
+backend
+node.js -> go 
+
+rest api points
+1)comment list
+1) reply comment
+1) like comment
+1) dislike comment
