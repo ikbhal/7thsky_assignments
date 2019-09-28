@@ -35,3 +35,22 @@ jquery suggestion
    
 ---
 
+
+bonus assingment
+
+one course
+
+course 1| course2| course3
+table
+ first row
+  cell or td : course 1
+  2nd td : course 2
+  3nd td: course3
+---
+c1_num_day  c1_num_months
+c2_num
+c3_num
+---
+function x3
+or
+generic function-
