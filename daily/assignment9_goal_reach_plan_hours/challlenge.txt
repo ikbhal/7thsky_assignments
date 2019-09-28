@@ -1,0 +1,37 @@
+Bismillah
+
+input: 
+
+front end developer course : 600 hours
+daily hours to practice: 4
+
+or input type="text"
+
+output:
+how many days  : 600/4
+how many months : 600/4/30
+
+----
+html
+ input type range
+ https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_input_type_range
+css
+
+javascript
+  input typre range -> change event
+  find out the event?
+  function which will fetch value from range input
+  calculate the num_day, num_months
+  simple: display using alert
+  append to body html or div
+   <div id="result"></div>
+   $("#result").append("days:"+ num_days+ ", months:" + 1);
+    string joining, or concatenation
+   jquery
+   append javascript
+
+jquery suggestion
+
+   
+---
+

@@ -1,0 +1,24 @@
+Bismillah
+
+Insert 2 youtube video side by side
+Hint: how to embed /insert youtube video
+sample:
+keep it 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4Do3JSBflc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+hint2: table tag, tr tag, td 
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_table_intro
+one row with 2 data/ 2 columns
+--
+optional below
+at the bottom chat section
+like forum
+
+---
+
+two videos:
+problem: deforestation -> flood,..., climate change..
+https://www.youtube.com/watch?v=nUstYj4o2VQ
+
+solution video
+https://www.youtube.com/watch?v=0hf2Czr6qlc
