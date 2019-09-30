@@ -1,0 +1,10 @@
+Bismillah
+
+daily assignments ideas list
+1) faq(frequently asked questions)
+1) college 
+1) student attenance -> rest api, front end, mark attendance student, aggregate
+1) inventory management
+1) donation(donate 1 rupee every day)
+1) cow tracking health, food, water, diseases, vaccines, milk yield
+
