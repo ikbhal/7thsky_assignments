@@ -8,3 +8,15 @@ daily assignments ideas list
 1) donation(donate 1 rupee every day)
 1) cow tracking health, food, water, diseases, vaccines, milk yield
 
+
+1) slide show
+1) gallery
+1) integrate google map
+1) facebook login
+1) linked login
+1) twitter login
+1) chat popup button like facebook website have
+
+1) toggle form student, teacher form toggle
+1) form validation
+1) code multiple language code tab like geeksforgeeks 
