@@ -1,0 +1,92 @@
+Quiz
+
+questions
+multiple choice questions
+
+ex:
+Q) 2+3 ?
+A) 5 B)3 C)0 D)-1
+correct Answer) 5
+user selected answer: A 
+
+---
+front end
+ html
+ css
+ javascript -> jquery
+---
+backend
+ node.js 
+ express
+  rest api
+
+   create question  rest api
+    http methodPOST  , url: http://localhost:8080/questions
+    body:
+     content type : application/json
+      {
+          "question": "2+3?"
+          "a": 5,
+          "b": 3,
+          "c": 0,
+          "d" : -1
+          "correct_answer_option": "a"
+      }
+
+   ouput:
+   {
+       "questionId": 1,
+        "question": "2+3?"
+          "a": 5,
+          "b": 3,
+          "c": 0,
+          "d" : -1
+          "correct_answer_option": "a"
+   }
+
+   2)retrieve  question
+   http method: get, url http://localhost:3000/questions/<questionId>
+   ex: questionId: 1 -> http://localhost:3000/questions/1
+   body: no body
+   response/output:
+
+    {
+       "questionId": 1,
+        "question": "2+3?"
+          "a": 5,
+          "b": 3,
+          "c": 0,
+          "d" : -1
+          "correct_answer_option": "a"
+   }
+
+
+ ---
+
+  list of questions
+  test
+
+  test related rest api
+  1) create test
+  2) retrieve test
+  ---
+  user rest api
+   create user
+   get user
+ ---
+
+ user giving etst
+ 
+  userId, questtion id, userSelectedAnswerOptionNumber
+
+ POST  url:/users/<userId>/questions/<questionId>
+ /users/786/questions/2
+ {
+     "userSlectedAnswerOption": "c"
+ }
+ ---
+ first time
+  no mongodb
+ just array local in the db
+    -> if stop server -> data loss
+    
