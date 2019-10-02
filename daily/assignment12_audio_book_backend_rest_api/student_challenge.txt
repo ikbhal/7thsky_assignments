@@ -1,0 +1,33 @@
+Bismillah
+
+car
+{
+    "name": "nano car",
+    "company" : "tata"
+}
+
+1) create car api
+post, /cars
+output
+{
+    "id": 0,
+    "name": "nano car",
+    "company" : "tata"
+}
+1) get all cars api
+get /cars
+output
+[
+    {
+        "id: 0,
+    "name": "nano car",
+    "company" : "tata"
+    }
+]
+1) get one car api given card id
+get, /cars/:carId,
+{
+    "id: 0,
+"name": "nano car",
+"company" : "tata"
+}
