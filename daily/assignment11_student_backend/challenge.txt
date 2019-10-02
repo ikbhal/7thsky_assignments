@@ -1,0 +1,41 @@
+Bismillah
+student
+2 rest end point
+
+1) create student 
+http method: POST
+url:/students
+body content type: application/json
+body sample
+{
+    "name": "Vikki",
+    "branch": "CSE"
+}
+body response type: application/json{}
+
+{
+    "rollNumber": 0,
+    "name": "Vikki",
+    "branch": "CSE"
+}
+
+----
+
+2) get all students
+
+http method: GET
+url:/students
+body  no body
+body response type: application/json{}
+[
+{
+    "rollNumber": 0,
+    "name": "Vikki",
+    "branch": "CSE"
+},
+{
+    "rollNumber": 1,
+    "name": "ikb",
+    "branch": "CSE"
+}
+]

@@ -1,0 +1,18 @@
+Bismillah
+
+Insha allah create audio book
+rest api
+
+audio book properties
+
+id
+name
+authors
+bookmark
+audio url
+
+rest api
+1)_create audio_book
+1)get audio book
+1) book mark audio book
+---
