@@ -11,8 +11,19 @@ authors
 bookmark
 audio url
 
+{
+    "name": "This Is Marketing. You Can’t Be Seen Until You Learn to See. Seth Godin",
+    "author": "Seth Godin",
+    "narrated_by":"Seth Godin",
+    "length": "7 hrs and 2 mins",
+    "releaseDate": "13-11-18",
+    "language": "english",
+    "publisher"  : "Penguin Books Ltd"
+}
+
 rest api
 1)_create audio_book
 1)get audio book
+---
 1) book mark audio book
 ---

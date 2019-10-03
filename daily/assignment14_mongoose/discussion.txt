@@ -1,0 +1,26 @@
+Bismillah
+
+Insha allah we create link document
+link(url, notes, votes)
+
+tutorial mongoose tutorial
+
+Bismillah
+
+Insha allah
+
+mongoose
+ create
+--
+mongoose
+ mongodb javascript node js library
+ to connect to mongodb server
+
+mongo db server running
+mongo db local gui client
+  robo mongo
+---
+1) how to connect to mongo
+1) how to insert into mongo
+1) link(url is string, notes is string, votes is number)
+---
