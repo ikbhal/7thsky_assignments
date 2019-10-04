@@ -20,3 +20,28 @@ daily assignments ideas list
 1) toggle form student, teacher form toggle
 1) form validation
 1) code multiple language code tab like geeksforgeeks 
+
+
+---
+1) paper bag dispense  vending machine
+  1) even collect
+  1)pay by paytm, goolge pay, phone paper
+  1) even return
+  1) partner with medical shop, tififin center, hotels, 
+1) free bag 2, 5, 10 bag 
+ 1) install app
+ 1) answer queri
+ 1) take survey
+ 1) view video
+ 1) join network app
+ 1) teach to earn bag
+ 1) gived missed call
+---
+1) todolist app 
+  with reminder
+1) show one todo at a time
+swipe left, right 
+complete not completed
+complete everything in 1 minutes
+group todo list
+---
