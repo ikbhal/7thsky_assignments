@@ -24,3 +24,47 @@ mongo db local gui client
 1) how to insert into mongo
 1) link(url is string, notes is string, votes is number)
 ---
+
+
+npm install mongoose
+
+//Import the mongoose module
+var mongoose = require('mongoose');
+
+//Set up default mongoose connection
+var mongoDB = 'mongodb://127.0.0.1/my_database';
+mongoose.connect(mongoDB, { useNewUrlParser: true });
+
+//Get the default connection
+var db = mongoose.connection;
+
+//Bind connection to error event (to get notification of connection errors)
+db.on('error', console.error.bind(console, 'MongoDB connection error:'));
+
+--
+
+//Require Mongoose
+var mongoose = require('mongoose');
+
+//Define a schema
+var Schema = mongoose.Schema;
+
+var SomeModelSchema = new Schema({
+  a_string: String,
+  a_date: Date
+});
+
+--
+//Require Mongoose
+var mongoose = require('mongoose');
+
+//Define a schema
+var Schema = mongoose.Schema;
+
+var linkSchema = new Schema({
+  url: String,
+  notes: String,
+  votes: Number
+});
+
+https://mongoosejs.com/docs/schematypes.html

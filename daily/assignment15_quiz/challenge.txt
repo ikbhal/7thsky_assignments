@@ -1,0 +1,34 @@
+Bismillah
+
+Insha create
+1) 5 minutes quiz
+1) ask total 10 questions
+1) each question will have 3 options -> select one
+1) if not answered in 30 seconds -> automatically move to next question
+1) next question button ">"
+1) previous question button "<"
+1) submit quiz button
+1) show results
+1) read json quiz question, options, answer metadata, quiz times
+{
+    "totalTimeInSeconds":300,
+    "eachQuestionAnswerTimeInSeconds": 30,
+    "questions": [
+    {
+        "question": "2+3",
+        "options": ["5", "3", "1"],
+        "answerOptionIndex": 0
+    },
+    {
+        "question": "2*5",
+        "options": ["5", "10", "5"],
+        "answerOptionIndex": 1
+    }
+    ]
+}
+---
+small questions
+1) 2+ 3
+---
+class
+

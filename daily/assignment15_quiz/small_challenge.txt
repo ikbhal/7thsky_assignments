@@ -1,0 +1,38 @@
+Bismilalh
+insha allah create
+
+2 quesetions
+each question have 3 options
+ <input type="radio" name="q1" value="2">2</input>
+ similarly 3 options
+
+jquery
+
+selecting
+https://stackoverflow.com/questions/596351/how-can-i-know-which-radio-button-is-selected-via-jquery
+w3school jquery
+w3scholl html radio button
+
+---
+Q1: 2+3?
+option1: 5
+option2: 3
+option3: 2
+
+Q2: 3*4?
+opion1: 1
+option2: 4
+option3: 12
+
+show result when clicked on radio button 
+ right or wrong in console
+ console.log
+
+---
+4 variable
+q1CorrectAnswer
+q1UserSelectedAnswer
+
+similarly 2 more variable for q2
+
+

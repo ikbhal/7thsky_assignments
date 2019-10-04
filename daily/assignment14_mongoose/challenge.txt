@@ -1,0 +1,26 @@
+Bismillah 
+Insha allah 
+create challenge for viki
+
+friends(name, notes)
+
+pre requisites
+ mongo db server installed
+ robo mongo client installed
+ mongodb server running
+ visual studio installed
+ node js installed
+
+steps 
+// create db connedction
+// create schema
+// create schema model
+// create model
+// create instance
+// save the instance
+
+submission
+you have to upload vikki google drive folder
+ create subfolder "code"
+share it in chat
+take screen shot if possible
