@@ -45,3 +45,8 @@ complete not completed
 complete everything in 1 minutes
 group todo list
 ---
+1) show word one by one
+break, accelerator up, down
+1) change file record like time history
+entire file change keep tracking
+1) auto git commit -> commit message from comment lines

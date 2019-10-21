@@ -1,0 +1,18 @@
+Bismillah
+Insha allah 
+class tody
+
+quiz
+form
+ radio button
+ UL,LI tag
+ or p tag 
+ submit button input type submit
+ ajax call to get quiz meta data optional
+
+ next button
+ previous button
+
+ submit button
+ show result
+ 
